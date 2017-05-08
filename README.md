@@ -1,8 +1,8 @@
 # Assignment5 Emanuele Guarascio
 
-Start the docker
+----Start the docker----
 
-Run the terminal
+----Run the terminal----
 
 docker images: List images in the docker
 
@@ -14,7 +14,7 @@ docker run --rm -d -p 8888.8888 --name myrunningapp mynodeapp: Run a command in 
 
 docker logs myrunningapp: Fetch the logs of a container
 
-Now Open the browser
+----Open the browser-----
 
 enter localhost:8888/listBook: Displays a collection of my favorite chinese restaurants
 
