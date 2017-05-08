@@ -1,0 +1,20 @@
+{
+   "Book1" : {
+      "name" : "The One Thing",
+      "category" : "Self-help",
+      "author" : "Gary W. Keller, Jay Papasan",
+      "id": 1
+   },
+   "Book2" : {
+      "name" : "Game Of Thrones",
+      "category" : "Political strategy, epic fantasy",
+      "author" : "George R. R. Martin",
+      "id": 2
+   },
+   "Book3" : {
+      "name" : "The Three Kingdoms",
+      "category" : "Historical Fiction",
+      "author" : "Luo Guanzhong",
+      "id": 3
+   }
+}
